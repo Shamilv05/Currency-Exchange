@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED7DEEB5224CBE6C0085D6EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED7DEEB4224CBE6C0085D6EB /* AppDelegate.swift */; };
-		ED7DEEB7224CBE6C0085D6EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED7DEEB6224CBE6C0085D6EB /* ViewController.swift */; };
-		ED7DEEBA224CBE6C0085D6EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED7DEEB8224CBE6C0085D6EB /* Main.storyboard */; };
-		ED7DEEBC224CBE6D0085D6EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED7DEEBB224CBE6D0085D6EB /* Assets.xcassets */; };
-		ED7DEEBF224CBE6D0085D6EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED7DEEBD224CBE6D0085D6EB /* LaunchScreen.storyboard */; };
+		EDBFCF4D227C5419009A8AB0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBFCF4C227C5419009A8AB0 /* AppDelegate.swift */; };
+		EDBFCF4F227C5419009A8AB0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBFCF4E227C5419009A8AB0 /* ViewController.swift */; };
+		EDBFCF52227C5419009A8AB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDBFCF50227C5419009A8AB0 /* Main.storyboard */; };
+		EDBFCF54227C541A009A8AB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDBFCF53227C541A009A8AB0 /* Assets.xcassets */; };
+		EDBFCF57227C541A009A8AB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDBFCF55227C541A009A8AB0 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ED7DEEB1224CBE6C0085D6EB /* Currency Converter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Currency Converter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED7DEEB4224CBE6C0085D6EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ED7DEEB6224CBE6C0085D6EB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		ED7DEEB9224CBE6C0085D6EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		ED7DEEBB224CBE6D0085D6EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ED7DEEBE224CBE6D0085D6EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ED7DEEC0224CBE6D0085D6EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDBFCF49227C5419009A8AB0 /* First_LAB_Acronis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = First_LAB_Acronis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDBFCF4C227C5419009A8AB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EDBFCF4E227C5419009A8AB0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EDBFCF51227C5419009A8AB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EDBFCF53227C541A009A8AB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EDBFCF56227C541A009A8AB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EDBFCF58227C541A009A8AB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ED7DEEAE224CBE6C0085D6EB /* Frameworks */ = {
+		EDBFCF46227C5419009A8AB0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ED7DEEA8224CBE6C0085D6EB = {
+		EDBFCF40227C5419009A8AB0 = {
 			isa = PBXGroup;
 			children = (
-				ED7DEEB3224CBE6C0085D6EB /* Currency Converter */,
-				ED7DEEB2224CBE6C0085D6EB /* Products */,
+				EDBFCF4B227C5419009A8AB0 /* First_LAB_Acronis */,
+				EDBFCF4A227C5419009A8AB0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ED7DEEB2224CBE6C0085D6EB /* Products */ = {
+		EDBFCF4A227C5419009A8AB0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ED7DEEB1224CBE6C0085D6EB /* Currency Converter.app */,
+				EDBFCF49227C5419009A8AB0 /* First_LAB_Acronis.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ED7DEEB3224CBE6C0085D6EB /* Currency Converter */ = {
+		EDBFCF4B227C5419009A8AB0 /* First_LAB_Acronis */ = {
 			isa = PBXGroup;
 			children = (
-				ED7DEEB4224CBE6C0085D6EB /* AppDelegate.swift */,
-				ED7DEEB6224CBE6C0085D6EB /* ViewController.swift */,
-				ED7DEEB8224CBE6C0085D6EB /* Main.storyboard */,
-				ED7DEEBB224CBE6D0085D6EB /* Assets.xcassets */,
-				ED7DEEBD224CBE6D0085D6EB /* LaunchScreen.storyboard */,
-				ED7DEEC0224CBE6D0085D6EB /* Info.plist */,
+				EDBFCF4C227C5419009A8AB0 /* AppDelegate.swift */,
+				EDBFCF4E227C5419009A8AB0 /* ViewController.swift */,
+				EDBFCF50227C5419009A8AB0 /* Main.storyboard */,
+				EDBFCF53227C541A009A8AB0 /* Assets.xcassets */,
+				EDBFCF55227C541A009A8AB0 /* LaunchScreen.storyboard */,
+				EDBFCF58227C541A009A8AB0 /* Info.plist */,
 			);
-			path = "Currency Converter";
+			path = First_LAB_Acronis;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ED7DEEB0224CBE6C0085D6EB /* Currency Converter */ = {
+		EDBFCF48227C5419009A8AB0 /* First_LAB_Acronis */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ED7DEEC3224CBE6D0085D6EB /* Build configuration list for PBXNativeTarget "Currency Converter" */;
+			buildConfigurationList = EDBFCF5B227C541A009A8AB0 /* Build configuration list for PBXNativeTarget "First_LAB_Acronis" */;
 			buildPhases = (
-				ED7DEEAD224CBE6C0085D6EB /* Sources */,
-				ED7DEEAE224CBE6C0085D6EB /* Frameworks */,
-				ED7DEEAF224CBE6C0085D6EB /* Resources */,
+				EDBFCF45227C5419009A8AB0 /* Sources */,
+				EDBFCF46227C5419009A8AB0 /* Frameworks */,
+				EDBFCF47227C5419009A8AB0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Currency Converter";
-			productName = "Currency Converter";
-			productReference = ED7DEEB1224CBE6C0085D6EB /* Currency Converter.app */;
+			name = First_LAB_Acronis;
+			productName = First_LAB_Acronis;
+			productReference = EDBFCF49227C5419009A8AB0 /* First_LAB_Acronis.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ED7DEEA9224CBE6C0085D6EB /* Project object */ = {
+		EDBFCF41227C5419009A8AB0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = Shamil;
 				TargetAttributes = {
-					ED7DEEB0224CBE6C0085D6EB = {
+					EDBFCF48227C5419009A8AB0 = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = ED7DEEAC224CBE6C0085D6EB /* Build configuration list for PBXProject "Currency Converter" */;
+			buildConfigurationList = EDBFCF44227C5419009A8AB0 /* Build configuration list for PBXProject "First_LAB_Acronis" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = ED7DEEA8224CBE6C0085D6EB;
-			productRefGroup = ED7DEEB2224CBE6C0085D6EB /* Products */;
+			mainGroup = EDBFCF40227C5419009A8AB0;
+			productRefGroup = EDBFCF4A227C5419009A8AB0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ED7DEEB0224CBE6C0085D6EB /* Currency Converter */,
+				EDBFCF48227C5419009A8AB0 /* First_LAB_Acronis */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ED7DEEAF224CBE6C0085D6EB /* Resources */ = {
+		EDBFCF47227C5419009A8AB0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED7DEEBF224CBE6D0085D6EB /* LaunchScreen.storyboard in Resources */,
-				ED7DEEBC224CBE6D0085D6EB /* Assets.xcassets in Resources */,
-				ED7DEEBA224CBE6C0085D6EB /* Main.storyboard in Resources */,
+				EDBFCF57227C541A009A8AB0 /* LaunchScreen.storyboard in Resources */,
+				EDBFCF54227C541A009A8AB0 /* Assets.xcassets in Resources */,
+				EDBFCF52227C5419009A8AB0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ED7DEEAD224CBE6C0085D6EB /* Sources */ = {
+		EDBFCF45227C5419009A8AB0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED7DEEB7224CBE6C0085D6EB /* ViewController.swift in Sources */,
-				ED7DEEB5224CBE6C0085D6EB /* AppDelegate.swift in Sources */,
+				EDBFCF4F227C5419009A8AB0 /* ViewController.swift in Sources */,
+				EDBFCF4D227C5419009A8AB0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		ED7DEEB8224CBE6C0085D6EB /* Main.storyboard */ = {
+		EDBFCF50227C5419009A8AB0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ED7DEEB9224CBE6C0085D6EB /* Base */,
+				EDBFCF51227C5419009A8AB0 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		ED7DEEBD224CBE6D0085D6EB /* LaunchScreen.storyboard */ = {
+		EDBFCF55227C541A009A8AB0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ED7DEEBE224CBE6D0085D6EB /* Base */,
+				EDBFCF56227C541A009A8AB0 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		ED7DEEC1224CBE6D0085D6EB /* Debug */ = {
+		EDBFCF59227C541A009A8AB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -223,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		ED7DEEC2224CBE6D0085D6EB /* Release */ = {
+		EDBFCF5A227C541A009A8AB0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -278,34 +278,36 @@
 			};
 			name = Release;
 		};
-		ED7DEEC4224CBE6D0085D6EB /* Debug */ = {
+		EDBFCF5C227C541A009A8AB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Currency Converter/Info.plist";
+				DEVELOPMENT_TEAM = 3LAFJWN8D9;
+				INFOPLIST_FILE = First_LAB_Acronis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "shamilv05.Currency-Converter";
+				PRODUCT_BUNDLE_IDENTIFIER = "shamilv05.First-LAB-Acronis";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ED7DEEC5224CBE6D0085D6EB /* Release */ = {
+		EDBFCF5D227C541A009A8AB0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Currency Converter/Info.plist";
+				DEVELOPMENT_TEAM = 3LAFJWN8D9;
+				INFOPLIST_FILE = First_LAB_Acronis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "shamilv05.Currency-Converter";
+				PRODUCT_BUNDLE_IDENTIFIER = "shamilv05.First-LAB-Acronis";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,25 +317,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ED7DEEAC224CBE6C0085D6EB /* Build configuration list for PBXProject "Currency Converter" */ = {
+		EDBFCF44227C5419009A8AB0 /* Build configuration list for PBXProject "First_LAB_Acronis" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED7DEEC1224CBE6D0085D6EB /* Debug */,
-				ED7DEEC2224CBE6D0085D6EB /* Release */,
+				EDBFCF59227C541A009A8AB0 /* Debug */,
+				EDBFCF5A227C541A009A8AB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ED7DEEC3224CBE6D0085D6EB /* Build configuration list for PBXNativeTarget "Currency Converter" */ = {
+		EDBFCF5B227C541A009A8AB0 /* Build configuration list for PBXNativeTarget "First_LAB_Acronis" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED7DEEC4224CBE6D0085D6EB /* Debug */,
-				ED7DEEC5224CBE6D0085D6EB /* Release */,
+				EDBFCF5C227C541A009A8AB0 /* Debug */,
+				EDBFCF5D227C541A009A8AB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ED7DEEA9224CBE6C0085D6EB /* Project object */;
+	rootObject = EDBFCF41227C5419009A8AB0 /* Project object */;
 }

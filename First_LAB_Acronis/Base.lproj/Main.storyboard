@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="First_LAB_Acronis" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Jopa" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hYf-pd-jWq">
+                                <rect key="frame" x="10" y="437.66666666666669" width="394" height="21"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                <color key="textColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="UQa-pH-B0P">
+                                <rect key="frame" x="0.0" y="44" width="414" height="383.66666666666669"/>
+                                <color key="backgroundColor" red="0.59503771241523773" green="0.65820367309436145" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </pickerView>
+                            <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HQF-gr-nkc">
+                                <rect key="frame" x="0.0" y="468.66666666666674" width="414" height="393.33333333333326"/>
+                                <color key="backgroundColor" red="0.43630926602428283" green="0.41186274410271417" blue="0.66666668653488159" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </pickerView>
+                        </subviews>
+                        <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="UQa-pH-B0P" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="1W3-xI-d85"/>
+                            <constraint firstItem="UQa-pH-B0P" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="70d-sq-c98"/>
+                            <constraint firstItem="UQa-pH-B0P" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="BVJ-6M-4e2"/>
+                            <constraint firstItem="HQF-gr-nkc" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="IBP-Ut-zUp"/>
+                            <constraint firstItem="HQF-gr-nkc" firstAttribute="top" secondItem="hYf-pd-jWq" secondAttribute="bottom" constant="10" id="IhN-cV-LIW"/>
+                            <constraint firstItem="hYf-pd-jWq" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="K6q-LU-AbF"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="HQF-gr-nkc" secondAttribute="bottom" id="Mf4-Rp-LKX"/>
+                            <constraint firstItem="UQa-pH-B0P" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Obf-91-lYr"/>
+                            <constraint firstItem="hYf-pd-jWq" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="SIz-kK-Qa2"/>
+                            <constraint firstItem="UQa-pH-B0P" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="VOY-QD-eaY"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="hYf-pd-jWq" secondAttribute="trailing" constant="10" id="aCn-JD-O3h"/>
+                            <constraint firstItem="hYf-pd-jWq" firstAttribute="top" secondItem="UQa-pH-B0P" secondAttribute="bottom" constant="10" id="jhr-Av-UKi"/>
+                            <constraint firstItem="hYf-pd-jWq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="mlA-YY-73B"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="HQF-gr-nkc" secondAttribute="trailing" id="wjl-NT-QZL"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="label" destination="hYf-pd-jWq" id="ODm-he-jkL"/>
+                        <outlet property="pickerFrom" destination="UQa-pH-B0P" id="nap-s9-2qr"/>
+                        <outlet property="pickerTo" destination="HQF-gr-nkc" id="9L1-Vi-bv8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="47.826086956521742" y="20.758928571428569"/>
+        </scene>
+    </scenes>
+</document>

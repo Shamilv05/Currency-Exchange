@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Currency Converter
+//  First_LAB_Acronis
 //
-//  Created by Shamil on 28/03/2019.
+//  Created by Shamil on 03/05/2019.
 //  Copyright © 2019 Shamil. All rights reserved.
 //
 
