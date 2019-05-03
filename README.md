@@ -1,4 +1,4 @@
 # Currency-Exchange
 The first task for university IOS Development course
 
-![img](https://ibb.co/YXhtqxC)
+![img](https://imgur.com/VCSGK60)
