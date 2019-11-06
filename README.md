@@ -1,4 +1,4 @@
 # Currency-Exchange
-The first task for university IOS Development course
+Application for getting fresh currency rates written in Swift
 
-![img](https://i.imgur.com/JUo3rKP.png)
+<img src="https://i.imgur.com/JUo3rKP.png" width="400" height="790">
